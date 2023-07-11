@@ -19,7 +19,7 @@ const AppTopbar = forwardRef((props, ref) => {
     return (
         <div className="layout-topbar">
             <Link href="/" className="layout-topbar-logo">
-                <img src={`/layout/images/lpse.png`} width="30px" height={'35px'} widt={'true'} alt="logo" />
+                <img src={`/layout/images/lpse-node.png`} height={'35px'} widt={'true'} alt="logo" />
                 <span>SPPD LPSE</span>
             </Link>
 

@@ -107,16 +107,15 @@ const Layout = (props) => {
             <Head>
                 <title>SPPD LPSE</title>
                 <meta charSet="UTF-8" />
-                <meta name="description" content="The ultimate collection of design-agnostic, flexible and accessible React UI Components." />
                 <meta name="robots" content="index, follow" />
                 <meta name="viewport" content="initial-scale=1, width=device-width" />
                 <meta property="og:type" content="website"></meta>
                 <meta property="og:title" content="SPPD LPSE | By Ilham"></meta>
-                <meta property="og:url" content="https://umkt.ac.id/"></meta>
+                <meta property="og:url" content="https://spse.beraukab.go.id/eproc4"></meta>
                 <meta property="og:description" content="The ultimate collection of design-agnostic, flexible and accessible React UI Components." />
-                <meta property="og:image" content="https://www.primefaces.org/static/social/sakai-nextjs.png"></meta>
+                <meta property="og:image" content="https://spse.beraukab.go.id/eproc4"></meta>
                 <meta property="og:ttl" content="604800"></meta>
-                <link rel="icon" href={`/e.ico`} type="image/x-icon"></link>
+                <link rel="icon" href={`/lpse-node.ico`} type="image/x-icon"></link>
             </Head>
 
             <div className={containerClass}>
